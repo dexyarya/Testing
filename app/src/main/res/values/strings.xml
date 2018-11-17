@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FavoriteFootballMatch</string>
+    <string name="team_">Team</string>
+    <string name="match_">Match</string>
+    <string name="favorite_match_">Favorite Match</string>
+    <string name="favorite_team_">Favorite Team</string>
+
+    <string name="home_badge_">home_badge</string>
+    <string name="away_badge_">away_badge</string>
+    <string name="vs_">VS</string>
+    <string name="shots_">SHOTS</string>
+    <string name="goals_">GOALS</string>
+    <string name="goalkeeper_">GOALKEEPER</string>
+    <string name="defense_">DEFENSE</string>
+    <string name="midfield_">MIDFIELD</string>
+    <string name="forward_">FORWARD</string>
+    <string name="substitutes_">SUBSTITUTES</string>
+    <string name="lineups_">Lineups</string>
+    <string name="favorites_">favorites</string>
+
+
+    <string name="no_fav">FAVORITE EMPTY</string>
+</resources>
